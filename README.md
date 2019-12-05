@@ -1,2 +1,2 @@
 # text2sound
-This project takes user inputs and turns them into midi notes with parameters specific to the input characters
+This project is meant to be a creative approach to composing musical pieces based on text. The [text2sound.py](text2sound.py) file can take a .txt file as input and will read each line and accordingly assign different musical parameters to generated notes. Once a .mid (midi file) has been generated, a user can import the .mid file into their DAW (digital audio workstation) of choice and listen to the corresponding file.
